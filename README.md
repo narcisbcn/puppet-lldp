@@ -4,9 +4,10 @@ puppet-lldp
 Overview
 --------
 
-Link Layer Discovery Protocol aka LLDP is useful to discover neighbors connected on your servers. This module will install lldptool binary to find out the name and port of the switch where your server is connected on.
+Link Layer Discovery Protocol aka LLDP is usefull to discover neighbors connected on your servers. This module will install lldptool binary to find out the name and port of the switch where your server is connected on.
 
 Environment
+-----------
 
 - Tested with RedHat OS family upper or equal than version 6
 - Enable LLDP feature on each switch
